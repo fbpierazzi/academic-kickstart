@@ -4,7 +4,7 @@ date = 2018-06-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Feargus Pendlebury`*`", "Fabio Pierazzi`*`", "Roberto Jordaney", "Johannes Kinder", "Lorenzo Cavallaro"]
+authors = ["Feargus Pendlebury\*", "Fabio Pierazzi\*", "Roberto Jordaney", "Johannes Kinder", "Lorenzo Cavallaro"]
 
 # Publication type.
 # Legend:
@@ -15,14 +15,16 @@ authors = ["Feargus Pendlebury`*`", "Fabio Pierazzi`*`", "Roberto Jordaney", "Jo
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["1"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *arXiv*"
-publication_short = "arXiv"
+publication = "*arXiv*"
+publication_short = "*arXiv*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = """
+Academic research on machine learning-based malware classification appears to leave very little room for improvement, boasting F1 performance figures of up to 0.99. Is the problem solved? In this paper, we argue that there is an endemic issue of inflated results due to two pervasive sources of experimental bias: spatial bias is caused by distributions of training and testing data not representative of a real-world deployment; temporal bias is caused by incorrect splits of training and testing sets (e.g., in cross-validation) leading to impossible configurations. To overcome this issue, we propose a set of space and time constraints for experiment design. Furthermore, we introduce a new metric that summarizes the performance of a classifier over time, i.e., its expected robustness in a real-world setting. Finally, we present an algorithm to tune the performance of a given classifier. We have implemented our solutions in TESSERACT, an open source evaluation framework that allows a fair comparison of malware classifiers in a realistic setting. We used TESSERACT to evaluate two well-known malware classifiers from the literature on a dataset of 129K applications, demonstrating the distortion of results due to experimental bias and showcasing significant improvements from tuning.
+"""
 abstract_short = ""
 
 # Is this a selected publication? (true/false)
