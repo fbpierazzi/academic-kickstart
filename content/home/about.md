@@ -35,6 +35,6 @@ weight = 5
 
 # Biography
 
-I'm a Post-Doctoral Researcher of the Systems Security Lab (S2Lab), between King's College London and Royal Holloway, University of London. I completed my Ph.D. in Computer Science at University of Modena, Italy, in March 2017.
+I'm a Post-Doctoral Researcher of the **Systems Security Lab (S2Lab)**, between **King's College London** and **Royal Holloway, University of London**. I completed my **Ph.D. in Computer Science** at **University of Modena and Reggio Emilia** in March 2017. I spent most of last year of my Ph.D. as a visiting research scholar at **University of Maryland, College Park**.
 
-My research interests lie at the intersection of machine learning and cybersecurity, with particular focus on program analysis, malware analysis and (occasionally) traffic anomaly detection. If you are interested in my research, contact me!
+My research interests lie at the intersection of **machine learning and cybersecurity**, with particular focus on  **malware analysis**, **program analysis** and (occasionally) **traffic anomaly detection**. If you are interested in my research, **contact me**!
