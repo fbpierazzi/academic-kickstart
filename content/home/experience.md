@@ -19,61 +19,58 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Visiting Research Associate"
-  company = "King's College London"
-  company_url = ""
-  location = "United Kingdom"
-  date_start = "2018-01-09"
-  date_end = ""
-  description = """
-  Systems Security Research Lab (S2Lab).
-
-  * Machine learning
-  * Program analysis
-  * Malware analysis
-  * Concept drift detection
-  """
+title = "Visiting Research Associate"
+company = "King's College London"
+company_url = ""
+location = "United Kingdom"
+date_start = "2018-01-09"
+date_end = ""
+description = """
+Systems Security Research Lab (S2Lab).
+* Machine learning
+* Program analysis
+* Malware analysis
+* Concept drift detection
+"""
 
 [[experience]]
-  title = "PostDoctoral Researcher"
-  company = "Royal Holloway, University of London"
-  company_url = ""
-  location = "United Kingdom"
-  date_start = "2017-10-02"
-  date_end = ""
-  description = """
-  Systems Security Research Lab (S2Lab).
-
-    * Machine learning
-    * Program analysis
-    * Malware analysis
-    * Concept drift detection"""
-
-
-    [[experience]]
-      title = "PostDoctoral Researcher"
-      company = "University of Modena and Reggio Emilia, Italy"
-      company_url = ""
-      location = "Italy"
-      date_start = "2017-01-01"
-      date_end = "2017-09-30"
-      description = """
-        * Big data security analytics for traffic anomaly detection
-        * Temporal graph analytics
-      """
+title = "PostDoctoral Researcher"
+company = "Royal Holloway, University of London"
+company_url = ""
+location = "United Kingdom"
+date_start = "2017-10-02"
+date_end = ""
+description = """
+Systems Security Research Lab (S2Lab).
+* Machine learning
+* Program analysis
+* Malware analysis
+* Concept drift detection"""
 
 
-    [[experience]]
-      title = "Visiting Research Scholar"
-      company = "University of Maryland, College Park"
-      company_url = ""
-      location = "USA"
-      date_start = "2016-01-04"
-      date_end = "2016-11-06"
-      description = """
-        * Machine learning for Android malware classification
-        * Cyber deception through logic programming
-      """
+[[experience]]
+title = "PostDoctoral Researcher"
+company = "University of Modena and Reggio Emilia"
+company_url = ""
+location = "Italy"
+date_start = "2017-01-01"
+date_end = "2017-09-30"
+description = """
+* Big data security analytics for traffic anomaly detection
+* Temporal graph analytics
+"""
 
+
+[[experience]]
+title = "Visiting Research Scholar"
+company = "University of Maryland, College Park"
+company_url = ""
+location = "USA"
+date_start = "2016-01-04"
+date_end = "2016-11-06"
+description = """
+  * Machine learning for Android malware classification
+  * Cyber deception through logic programming
+"""
 
 +++
