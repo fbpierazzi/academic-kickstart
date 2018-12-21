@@ -23,12 +23,12 @@ weight = 5
   year = 2017
 
 [[education.courses]]
-  course = "MSc in Computer Engineering and Science"
+  course = "MSc Computer Eng. and Science"
   institution = "University of Modena and Reggio Emilia, Italy"
   year = 2013
 
 [[education.courses]]
-  course = "BSc in Computer Engineering and Science"
+  course = "BSc Computer Eng. and Science"
   institution = "University of Modena and Reggio Emilia, Italy"
   year = 2010
 
