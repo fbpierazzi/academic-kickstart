@@ -26,12 +26,7 @@ location = "United Kingdom"
 date_start = "2018-09-01"
 date_end = ""
 description = """
-Systems Security Research Lab (S2Lab).
-
-* Machine learning
-* Program analysis
-* Malware analysis
-* Concept drift detection
+{{< figure library="1" src="kcl-logo.png" title="King's College London" >}}
 """
 
 [[experience]]
