@@ -25,7 +25,8 @@ company_url = ""
 location = "United Kingdom"
 date_start = "2018-09-01"
 date_end = ""
-description = "{{< figure library="1" src="kcl-logo.png" title="King's College London" >}}"
+description = "Hello"
+{{< figure library="1" src="kcl-logo.png" title="King's College London" >}}
 
 [[experience]]
 title = "PostDoctoral Researcher"
