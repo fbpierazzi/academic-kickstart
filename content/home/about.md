@@ -10,9 +10,8 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Cybersecurity",
-    "Malware Analysis",
-    "Machine Learning",
+    "ML for Security",
+    "Malware Detection",
     "Program Analysis"
   ]
 
