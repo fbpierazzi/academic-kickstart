@@ -27,6 +27,7 @@ date_start = "2018-01-09"
 date_end = ""
 description = """
 Systems Security Research Lab (S2Lab).
+
 * Machine learning
 * Program analysis
 * Malware analysis
@@ -42,6 +43,7 @@ date_start = "2017-10-02"
 date_end = ""
 description = """
 Systems Security Research Lab (S2Lab).
+
 * Machine learning
 * Program analysis
 * Malware analysis
@@ -56,8 +58,8 @@ location = "Italy"
 date_start = "2017-01-01"
 date_end = "2017-09-30"
 description = """
-* Big data security analytics for traffic anomaly detection
-* Temporal graph analytics
+  * Big data security analytics for traffic anomaly detection
+  * Temporal graph analytics
 """
 
 
