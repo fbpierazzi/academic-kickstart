@@ -18,7 +18,7 @@ authors = ["*Feargus Pendlebury*", "*Fabio Pierazzi*", "Roberto Jordaney", "Joha
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *arXiv*."
+publication = "*arXiv*"
 publication_short = ""
 
 # Abstract and optional shortened version.

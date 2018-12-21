@@ -18,7 +18,7 @@ authors = ["*Feargus Pendlebury*", "*Fabio Pierazzi*", "Roberto Jordaney", "Joha
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "In *ACM CCS 2018*."
+publication = "*ACM CCS*"
 publication_short = ""
 
 # Abstract and optional shortened version.
