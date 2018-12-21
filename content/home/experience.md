@@ -25,8 +25,7 @@ company_url = ""
 location = "United Kingdom"
 date_start = "2018-09-01"
 date_end = ""
-description = "Hello"
-{{< figure library="1" src="kcl-logo.png" title="King's College London" >}}
+description = ""
 
 [[experience]]
 title = "PostDoctoral Researcher"
@@ -35,13 +34,7 @@ company_url = ""
 location = "United Kingdom"
 date_start = "2017-10-02"
 date_end = ""
-description = """
-Systems Security Research Lab (S2Lab).
-
-* Machine learning
-* Program analysis
-* Malware analysis
-* Concept drift detection"""
+description = ""
 
 
 [[experience]]
@@ -51,10 +44,7 @@ company_url = ""
 location = "Italy"
 date_start = "2017-01-01"
 date_end = "2017-09-30"
-description = """
-  * Big data security analytics for traffic anomaly detection
-  * Temporal graph analytics
-"""
+description = ""
 
 
 [[experience]]
@@ -64,9 +54,6 @@ company_url = ""
 location = "USA"
 date_start = "2016-01-04"
 date_end = "2016-11-06"
-description = """
-  * Machine learning for Android malware classification
-  * Cyber deception through logic programming
-"""
+description = ""
 
 +++
