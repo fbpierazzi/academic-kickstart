@@ -1,6 +1,6 @@
 +++
 title = "TESSERACT: Eliminating Experimental Bias in Malware Classification across Space and Time"
-date = 2018-06-01T00:00:00
+date = 2018-07-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -18,7 +18,7 @@ authors = ["*Feargus Pendlebury*", "*Fabio Pierazzi*", "Roberto Jordaney", "Joha
 publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "*arXiv*"
+publication = "In *arXiv*."
 publication_short = "*arXiv*"
 
 # Abstract and optional shortened version.
