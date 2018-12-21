@@ -60,11 +60,11 @@ enableGitInfo = false
   organizations = [ { name = "Royal Holloway University of London & King's College London", url = "https://s2lab.kcl.ac.uk" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "photo.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "fabio.pierazzi@kcl.ac.uk"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "King's College London, Department of Informatics, Bush House, London, UK"
   office_hours = """
   Email to book an appointment
   """
@@ -105,7 +105,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "ocean"
   # Enable users to switch between day and night mode?
   day_night = true
 
