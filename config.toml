@@ -64,7 +64,7 @@ enableGitInfo = false
 
   # Details for the Contact Widget
   email = "fabio.pierazzi@kcl.ac.uk"
-  address = "King's College London, Department of Informatics, Bush House, London, UK"
+  address = "King's College London, Department of Informatics, Bush House, London"
   office_hours = """
   Email to book an appointment
   """
